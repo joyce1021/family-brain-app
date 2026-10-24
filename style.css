@@ -1,0 +1,4 @@
+:root { color-scheme: light dark; }
+body { font: 17px/1.55 -apple-system, system-ui, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; }
+h1 { font-size: 1.6em; }
+a { color: #2563eb; }
